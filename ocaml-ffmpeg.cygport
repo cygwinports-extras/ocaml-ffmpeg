@@ -2,7 +2,7 @@ inherit ocaml
 
 NAME="ocaml-ffmpeg"
 VERSION=0.1.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Libs"
 SUMMARY="OCaml libswscale bindings"
 DESCRIPTION="OCaml bindings for the FFmpeg image rescaling library."
